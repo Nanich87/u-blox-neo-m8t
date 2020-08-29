@@ -1,6 +1,6 @@
 # u-blox NEO/LEA-M8T
 
-![u-blox LEA-M8T](https://media-exp1.licdn.com/dms/image/C4D12AQHRDVO-vQF1uQ/article-inline_image-shrink_1000_1488/0?e=1602720000&v=beta&t=8tbdeQT79N_twoIuAhxp0wUGrCwsEbD6UW_qj-nXTV4)
+![u-blox LEA-M8T](https://www.u-blox.com/sites/default/files/styles/product_full/public/products/LEA-M8T_0.png?itok=jp4IvXze)
 
 [NEO/LEA-M8T series](https://www.u-blox.com/en/product/neolea-m8t-series)
 
